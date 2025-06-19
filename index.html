@@ -1,11 +1,27 @@
 ﻿<!DOCTYPE html>
-
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<html lang="en">
 <head>
-    <meta charset="utf-8" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Researchly</title>
-</head> 
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/scholarly@1.1.1/dist/index.min.js"></script>
+</head>
 <body>
-
+    <div id="app-container">
+        <h1>Researchly</h1>
+        <div id="chat-window">
+            <div id="chat-messages"></div>
+        </div>
+        <div id="input-area">
+            <input type="text" id="user-input" placeholder="Type your answer...">
+            <button id="send-button">Send</button>
+        </div>
+        <div id="results-area">
+            <h2>Scholarly Articles / Niches</h2>
+            <div id="scholarly-results"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
 </body>
-</html>  
+</html>
