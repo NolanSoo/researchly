@@ -1,3 +1,4 @@
 Welcome to Researchly!
-This app helps you find research - leading you to innovative ideas. API Used: https://rapidapi.com/Glavier/api/google-scholar1/playground/apiendpoint_f0747d1d-3c6c-4313-b4be-cea8f559a69f
-I used Vercel V0 to enhance the UI. 
+I created this app because I was struggling to find ideas for a winning ISEF idea. I thought of several decent ideas in active research areas, but they were all already done, such as my idea to have a dual-axis solar panel with mirrors. Thus, I created Researchly to help people find elite-level engineering ideas that both have high potiential to win grand/special awards at ISEF and (even more importantly) have high potiential of positively impacting thousands or even millions of people that are plausible to fully research and complete within 3-4 months (example: August-December)
+This app helps you find research - leading you to innovative ideas.
+- app not done yet btw - 
